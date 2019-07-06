@@ -11,8 +11,13 @@
     },
 
     "content_scripts": [{
-        "matches": ["*://*.teoria.pl/prawo-jazdy/testy"],
-        "js": ["counter.js"]
-    }]
+            "matches": ["*://*.teoria.pl/prawo-jazdy/testy"],
+            "js": ["counter.js"]
+        },
+        {
+            "matches": ["*://*.teoria.pl/"],
+            "js": ["mainSite.js"]
+        }
+    ]
 
 }
