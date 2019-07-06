@@ -72,6 +72,7 @@ function enableAdd() {
 function result() {
     checkResult();
     btn.classList += " disabled";
+    let x;
 }
 
 function total() {
