@@ -58,16 +58,20 @@ menu.appendChild(btn);
 menu.appendChild(clear);
 menu.appendChild(stats);
 
-
+const nextExam = menu.getElementsByTagName("a")[0];
+nextExam.addEventListener("click", enableAdd);
 btn.addEventListener("click", result);
 clear.addEventListener("click", clearStorage);
+
+function enableAdd() {
+    if (btn.classList.contains("disabled")) {
+        btn.classList.remove("disabled");
+    }
+}
 
 function result() {
     checkResult();
     btn.classList += " disabled";
-    setTimeout(function () {
-        btn.classList.remove("disabled")
-    }, 5000);
 }
 
 function total() {
