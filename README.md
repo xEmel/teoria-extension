@@ -26,7 +26,7 @@
 
 This browser extension was made to count my driver exams. Website not provide stats, so i decided to do its on my own. It's simple extension, that show three small squares in the corner with number of passed, failed and total exam count.
 
-<!-- INSTALLATION-->
+<!-- INSTALLATION -->
 
 ### Installation
 It works properly on firefox.
@@ -37,6 +37,7 @@ It works properly on firefox.
 <li>Go to https://teoria.pl and pass the exam!</li>
 <li>Have fun</li>
 </ol>
+<!-- USAGE -->
 ### Usage
 
 Just solve an exam. You will see at right bottom corner three small squares with numbers. The green one is passed exams, red one is failed and blue is total count of solved exams.
