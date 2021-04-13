@@ -37,7 +37,9 @@ It works properly on firefox.
 <li>Go to https://teoria.pl and pass the exam!</li>
 <li>Have fun</li>
 </ol>
+
 <!-- USAGE -->
+
 ### Usage
 
 Just solve an exam. You will see at right bottom corner three small squares with numbers. The green one is passed exams, red one is failed and blue is total count of solved exams.
