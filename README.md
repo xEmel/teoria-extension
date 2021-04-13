@@ -30,12 +30,13 @@ This browser extension was made to count my driver exams. Website not provide st
 
 ### Installation
 It works properly on firefox.
-`1. Download/Clone repository and open about:debbuging`
-`2. Click load temporary add-on`
-`3. Load Teoria Extension`
-`4. Go to https://teoria.pl and pass the exam!`
-`5. Have fun`
-
+<ol>
+<li>` Download/Clone repository and open about:debbuging`</li>
+<li>`Click load temporary add-on`</li>
+<li>`Load Teoria Extension`</li>
+<li>`Go to https://teoria.pl and pass the exam!`</li>
+<li>`Have fun`</li>
+</ol>
 ### Usage
 
 Just solve an exam. You will see at right bottom corner three small squares with numbers. The green one is passed exams, red one is failed and blue is total count of solved exams.
