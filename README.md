@@ -31,11 +31,11 @@ This browser extension was made to count my driver exams. Website not provide st
 ### Installation
 It works properly on firefox.
 <ol>
-<li>` Download/Clone repository and open about:debbuging`</li>
-<li>`Click load temporary add-on`</li>
-<li>`Load Teoria Extension`</li>
-<li>`Go to https://teoria.pl and pass the exam!`</li>
-<li>`Have fun`</li>
+<li> Download/Clone repository and open about:debbuging</li>
+<li>Click load temporary add-on</li>
+<li>Load Teoria Extension</li>
+<li>Go to https://teoria.pl and pass the exam!</li>
+<li>Have fun</li>
 </ol>
 ### Usage
 
